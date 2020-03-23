@@ -9,3 +9,6 @@ Our model tended to produce degenerate outputs, both with and without MMI decodi
 
 # Eval Examples
 
+![alt text](https://github.com/esteng/parlai_pointer/blob/master/mturk/screen1.png "Qualification Task")
+
+![alt text](https://github.com/esteng/parlai_pointer/blob/master/mturk/screen2.png "Example Dialog")
